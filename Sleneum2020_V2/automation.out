@@ -1,0 +1,21 @@
+-----------Started Test_005.log4j-----------
+Opening browser:	chrome
+Navigate to url     http://www.amazon.in
+Select Books by locator:      url
+Type Harry potter bookaname by locator:     field-keywords
+click on the search botton by locator:     //input[@value='Go']
+-----------Ended Test_005.log4j-----------
+-----------Started Test_005.log4j-----------
+Opening browser:	chrome
+Navigate to url     http://www.amazon.in
+Select Books by locator:      url
+Type Harry potter bookaname by locator:     field-keywords
+click on the search botton by locator:     //input[@value='Go']
+-----------Ended Test_005.log4j-----------
+-----------Started Test_005.log4j-----------
+Opening browser:	chrome
+Navigate to url     http://www.amazon.in
+Select Books by locator:      url
+Type Harry potter bookaname by locator:     field-keywords
+click on the search botton by locator:     //input[@value='Go']
+-----------Ended Test_005.log4j-----------
